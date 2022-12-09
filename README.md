@@ -1,2 +1,3 @@
 # Machine_Learning_Projects
-This repo consists of a variety of user-friendly, detailed, learning-assist machine learning projects.
+A collection of user-friendly, detailed, learning-assist and clean implementations of machine learning algorithms.
+
